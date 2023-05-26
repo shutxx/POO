@@ -1,0 +1,22 @@
+package Aluno;
+
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+ */
+
+/**
+ *
+ * @author Usuário
+ */
+public class Aluno {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+        AlunoClass variavel = new AlunoClass();
+        System.out.println(variavel.aprovarAluno());
+    }
+}
